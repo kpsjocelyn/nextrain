@@ -1,0 +1,44 @@
+@font-face {
+	font-family: "Achemine";
+	src: url('achemine-webfont.ttf');
+}
+
+@font-face {
+	font-family: "AchemineB";
+	src: url('acheminb-webfont.ttf');
+}
+
+@font-face {
+	font-family: "OutAEG";
+	src: url('outaeg.ttf');
+}
+
+body{
+    background-color: #1a1a1a;
+    color: white;
+    font-family: "Achemine";
+    font-size: 26px;
+}
+
+h1{
+    font-family: "AchemineB";
+    font-size: 3rem;
+}
+
+hr{
+   border-top: 4px solid white;
+}
+
+.table-dark{
+    background-color: #050505;
+    font-family: "OutAEG";
+    color: #f3870c;
+    font-size: 2.5rem;
+}
+
+.table .thead-light th {
+    color: white !important;
+    background-color: #1a1a1a !important;
+    border-color: #1a1a1a !important;
+    font-family: "Achemine";
+}

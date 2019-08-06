@@ -1,0 +1,43 @@
+{
+    "line1":{
+        "date": "12/08",
+        "time": "11h22",
+        "destination": "Mulhouse Dornach"
+    },
+
+    "line2":{
+        "date": "12/08",
+        "time": "17h52",
+        "destination": "Strasbourg Ville"
+    },
+
+    "line3":{
+        "date": "19/08",
+        "time": "07h13",
+        "destination": "Paris - Gare de l'Est"
+    },
+
+    "line4":{
+        "date": "20/09",
+        "time": "15h00",
+        "destination": "Molsheim"
+    },
+
+    "line5":{
+        "date": "24/10",
+        "time": "08h36",
+        "destination": "Colmar"
+    },
+
+    "line6":{
+        "date": "25/10",
+        "time": "11h13",
+        "destination": "Thann Kruth"
+    },
+
+    "line7":{
+        "date": "24/12",
+        "time": "00h00",
+        "destination": "Village du Pere Noel"
+    }
+}
