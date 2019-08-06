@@ -1,5 +1,5 @@
 # ![logo nextrain](https://i.imgur.com/cChMtJA.png)
-**nexrain** est un petit projet qui a pour but de reproduire les afficheurs LED des gares SNCF pour afficher les prochains voyages de l'utilisateur.
+**nextrain** est un petit projet qui a pour but de reproduire les afficheurs LED des gares SNCF pour afficher les prochains voyages de l'utilisateur.
 
 ## Installation
 L'installation est très simple, il suffit d'exporter l'ensemble du répertoire sur votre FTP et cela fonctionne.
